@@ -16,8 +16,5 @@ a few correct decimal digits.
 
 In this case, the following infinite series will be used:
 
-π^2    1     1     1     1     1
---- = --- + --- + --- + --- + --- + ...
- 6    1^2   2^2   3^2   4^2   5^2
- 
+(π^2)/6 = 1/(1^2) + 1/(2^2) + 1/(3^2) + 1/(4^2) + 1/(5^2) +...
  
