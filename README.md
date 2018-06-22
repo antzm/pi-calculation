@@ -25,3 +25,5 @@ The problem to calculate the above series first appeared
 in 1644 by Pietro Mengoli and the first one to calculate
 it was Leonhard Euler after 90 years.
 
+In bobliography is known as the "Basel Problem".
+
