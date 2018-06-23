@@ -18,12 +18,12 @@ In this case, the following infinite series will be used:
 
 (π^2)/6 = 1/(1^2) + 1/(2^2) + 1/(3^2) + 1/(4^2) + 1/(5^2) +...
  
-The above sum, had been calculated, for the first time,
+The above sum had been calculated for the first time,
 in the year 1734 by the mathematician Leonhard Euler.
 
-The problem to calculate the above series first appeared
+The problem to calculate this series first appeared
 in 1644 by Pietro Mengoli and the first one to calculate
-it was Leonhard Euler after 90 years.
+it's sum was Leonhard Euler after 90 years.
 
 In bibliography is known as the "Basel Problem".
 
