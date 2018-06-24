@@ -27,3 +27,6 @@ it's sum was Leonhard Euler after 90 years.
 
 In bibliography is known as the "Basel Problem".
 
+Using this seriess to calculate Pi, we need to calculate
+the sum of the first 1000 terms in order to find
+the number 3,14 i.e. the Pi with an accuracy of two decimals.
