@@ -33,3 +33,5 @@ the number 3,14 i.e. the Pi with an accuracy of two decimals.
 
  Adding 1.000.000 terms, results in 5 correct Pi digits (3.14159)
  
+Adding 1.000.000.000 terms results in 7 correct Pi digits (3.1415926)
+(The 1 billion terms calculation requires around 2 minutes)
