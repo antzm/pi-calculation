@@ -44,4 +44,9 @@ Using `let` to declare the variables, makes the code
 to run much faster, especially on Firefox while
 on Chrome the differences are minimal.
 
+It worths noting that if the variables are
+declared with `var` Firefox becomes 80% slower
+compared when the variables are declared with `let`.
+
+
 
