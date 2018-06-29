@@ -48,5 +48,6 @@ It worths noting that if the variables are
 declared with `var` Firefox becomes 80% slower
 compared when the variables are declared with `let`.
 
-
+On Google Chrome though, `var` declarations make
+the code only slightly `slower`.
 
