@@ -1,6 +1,6 @@
 # pi-calculation
 
-A small script to calculate the PI number = 3,14159
+This is a small script to calculate the PI number = 3,14159
 
 Pi (Greek π) calculation is based on the calculation
 of a sum of an infinite series.
@@ -38,7 +38,7 @@ Adding 1.000.000.000 terms results in 7 correct Pi digits (3.1415926)
 on an average current laptop).
 
 It worths mentioning though that the above time depends
-mainly on the declaration of the variables used.
+mainly on the declarations of the variables used.
 
 Using `let` to declare the variables, makes the code
 to run much faster, especially on Firefox while
