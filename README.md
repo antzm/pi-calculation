@@ -51,7 +51,7 @@ compared when the variables are declared with `let`.
 On Google Chrome though, `var` declarations makes
 the code only slightly slower.
 
-The intensive code could be used to compare 
-different computers and browsers. It could 
-also be considered as a very simle
+This intensive code could be used to compare 
+the spped of different computers and browsers. 
+Thus, it could be considered as a very simle
 benchmark test.
