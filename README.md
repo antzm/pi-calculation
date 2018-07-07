@@ -52,6 +52,6 @@ On Google Chrome though, `var` declarations makes
 the code only slightly slower.
 
 This intensive code could be used to compare 
-the spped of different computers and browsers. 
-Thus, it could be considered as a very simle
+the speed of different computers and browsers. 
+Thus, it could be considered as a very simple
 benchmark test.
