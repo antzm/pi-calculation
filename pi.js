@@ -2,6 +2,9 @@
 // using one of the simplest infinte series
 // sum = 1/(1*1) + 1/(2*2) + 1/(3*3) + 1/(4*4) + 1/(5*5)... infinte terms
 // and where Pi = sqrt(sum*6)
+// This series converges very slowly so we need to add
+// many terms to get an acceptable aproximation for Pi
+
 
 console.time('Total time for Pi calculation: ');
 let n=0, sum=0;
