@@ -4,7 +4,10 @@
 // and where Pi = sqrt(sum*6)
 // This series converges very slowly so we need to add
 // many terms to get an acceptable aproximation for Pi
-
+// Adding 10 terms results in 1 correct Pi digit (3)
+// Adding 100 trems results in 2 correct Pi digits (3.1)
+// Adding 1.000 terms results in 3 correct Pi digits (3.14)
+// Adding 1.000.000 terms results in 6 correct Pi digits (3.14159)
 
 console.time('Total time for Pi calculation: ');
 let n=0, sum=0;
@@ -14,4 +17,3 @@ for (let i=1; i<1000000; i++) {
 };
 console.log("pi approximation = " + Math.sqrt(sum*6));
 console.timeEnd('Total time for Pi calculation: ');
-
