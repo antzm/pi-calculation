@@ -12,6 +12,10 @@
 // The Greek phrase "Αεί, ο Θεός ο Μέγας γεωμετρεί"
 // corresponds to the 3,14159 when counting each word's letters.
 
+// Adding 1.000.000.000 terms results in 8 correct Pi digits (3.1415926)
+// The 1 billion terms calculation requires around 2 minutes
+// on the latest Chrome running on a current Windows 10 laptop
+
 console.time('Total time for Pi calculation: ');
 let n=0, sum=0;
 for (let i=1; i<1000000; i++) {
