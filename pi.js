@@ -16,6 +16,9 @@
 // The 1 billion terms calculation requires around 2 minutes
 // on the latest Chrome running on a current Windows 10 laptop
 
+// Try also to change the variable declarations with var
+// and check the time that the script needs to run.
+
 console.time('Total time for Pi calculation: ');
 let n=0, sum=0;
 for (let i=1; i<1000000; i++) {
