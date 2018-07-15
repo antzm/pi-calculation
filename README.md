@@ -16,7 +16,9 @@ a few correct decimal digits.
 
 In this case, the following infinite series will be used:
 
-<strong>(π^2)/6 = Σ(sum) { 1/(1^2) + 1/(2^2) + 1/(3^2) + 1/(4^2) + 1/(5^2) +...+ 1/(n^2) }</strong>
+<strong>Σ(sum) = 1/(1^2) + 1/(2^2) + 1/(3^2) + 1/(4^2) + 1/(5^2) +...+ 1/(n^2) </strong>
+
+<strong> Σ(sum) = (π^2)/6 </strong>
  
 The above sum had been calculated for the first time,
 in the year 1734 by the mathematician Leonhard Euler.
