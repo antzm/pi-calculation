@@ -33,11 +33,11 @@ Using this seriess to calculate Pi, we need to calculate
 the sum of the first 1000 terms in order to find
 the number 3,14 i.e. the Pi with an accuracy of two decimals.
 
- Adding 1.000.000 terms, results in 5 correct Pi digits (3.14159)
+Adding 1.000.000 terms, results in 5 correct Pi digits (3.14159)
  
 Adding 1.000.000.000 terms results in 7 correct Pi digits (3.1415926)
 (The 1 billion terms calculation requires around 2 minutes
-on an average current laptop).
+on an average Windows 10 current laptop).
 
 It worths mentioning though that the above time depends
 mainly on the declarations of the variables used.
@@ -47,13 +47,13 @@ to run much faster, especially on Firefox while
 on Chrome the differences are minimal.
 
 It worths noting that if the variables are
-declared with `var` Firefox becomes 80% slower
+declared with `var`, Firefox becomes 80% slower
 compared when the variables are declared with `let`.
 
-On Google Chrome though, `var` declarations makes
+On Google Chrome though, `var` declarations make
 the code only slightly slower.
 
-This intensive code could be used to compare 
+This intensive code can be used to compare 
 the speed of different computers and browsers. 
 Thus, it could be considered as a very simple
 benchmark test.
