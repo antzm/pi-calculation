@@ -23,6 +23,10 @@
 // for the loop the number 1 billion, otherwise
 // the script becomes extremely slow.
 
+// The output will also provide the time
+// in milliseconds that was required
+// for the calculation.
+
 console.time('Total time for Pi calculation: ');
 let n=0, sum=0;
 for (let i=1; i<1000000; i++) {
