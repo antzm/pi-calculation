@@ -1,4 +1,4 @@
-// A script to calculate Pi (3.14)
+// A script to calculate Pi (π = 3.14159...)
 // using one of the simplest infinte series
 // sum = 1/(1*1) + 1/(2*2) + 1/(3*3) + 1/(4*4) + 1/(5*5)... infinte terms
 // and where Pi = sqrt(sum*6)
