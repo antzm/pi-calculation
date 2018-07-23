@@ -60,7 +60,7 @@ the speed of different computers and browsers.
 Thus, it could be considered as a very simple
 benchmark test.
 
-#Pi calculation current record
+<h3>Pi calculation current record</h3>
 It worths noting that in November 2016, Peter Trueb
 calculated 22,459,157,718,361 fully verified digits of pi.
 The calculation and the verification process took 105 days.
