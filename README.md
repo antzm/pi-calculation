@@ -65,3 +65,13 @@ It worths noting that in November 2016, Peter Trueb
 calculated 22,459,157,718,361 fully verified digits of pi.
 The calculation and the verification process took 105 days.
 
+<h3>Pi calculation history</h3>
+number of correct decimal digits, year, details
+<ul>
+<li>1, 2000 BC, Ancient Babylonians</li>
+<li>2, 250 BC, Archimedes</li>
+<li>3, 150 AD, Ptolemy</li>
+<li>7,	480 AD, Zu Chongzhi</li>
+<li>10,	1400 AD, Madhava of Sangamagrama</li>
+<li>16, 1424 AD, Jamshīd al-Kāshī</li>
+</ul>
