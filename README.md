@@ -76,5 +76,10 @@ number of correct decimal digits / year / details
 <li>16 digits, 1424 AD, Jamshīd al-Kāshī</li>
 <li>100 digits, 1706 AD, John Machin</li>
 <li>527 digits, 1874, William Shanks</li>
-<li>2037 digits, 1949,	John Wrench, and L. R. Smith Using the ENIAC computer</li>
+<li>2037 digits, 1949,	John Wrench, and L. R. Smith using the ENIAC computer</li>
+<li>10K digits, 1958, Francois Genuys using IBM 704</li>
+<li>100K digits, 1961, Daniel Shanks and John Wrench using IBM 7090</li>
+<li>250K digit, 1966, Jean Guilloud and J. Filliatre using IBM 7030</li>
+<li>500K digits, 1967, Jean Guilloud and M. Dichampt using CDC 6600</li>
+<li>1 million digits, 1973, Jean Guilloud and Martin Bouyer using CDC 7600</li>
 </ul>
