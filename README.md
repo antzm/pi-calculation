@@ -77,9 +77,14 @@ number of correct decimal digits / year / details
 <li>100 digits, 1706 AD, John Machin</li>
 <li>527 digits, 1874, William Shanks</li>
 <li>2037 digits, 1949,	John Wrench, and L. R. Smith using the ENIAC computer</li>
-<li>10K digits, 1958, Francois Genuys using IBM 704</li>
-<li>100K digits, 1961, Daniel Shanks and John Wrench using IBM 7090</li>
-<li>250K digit, 1966, Jean Guilloud and J. Filliatre using IBM 7030</li>
-<li>500K digits, 1967, Jean Guilloud and M. Dichampt using CDC 6600</li>
+<li>10 K digits, 1958, Francois Genuys using IBM 704</li>
+<li>100 K digits, 1961, Daniel Shanks and John Wrench using IBM 7090</li>
+<li>250 K digit, 1966, Jean Guilloud and J. Filliatre using IBM 7030</li>
+<li>500 K digits, 1967, Jean Guilloud and M. Dichampt using CDC 6600</li>
 <li>1 million digits, 1973, Jean Guilloud and Martin Bouyer using CDC 7600</li>
+<li>2 million digits, 1981, Jean Guilloud</li>
+<li>8 million digits, 1983, Yoshiaki Tamura and Yasumasa Kanada	using HITAC M-280H</li>
+<li>33 million digits, 1986, Yasumasa Kanada, Yoshiaki Tamura	using HITAC S-810/20</li>
+<li>200 million digits, 1988, Yasumasa Kanada and Yoshiaki Tamura using HITAC S-820/80</li>
+<li>1 billion digits, 1989, Gregory V. Chudnovsky & David V. Chudnovsky using IBM 3090</li>
 </ul>
