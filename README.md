@@ -87,4 +87,8 @@ number of correct decimal digits / year / details
 <li>33 million digits, 1986, Yasumasa Kanada, Yoshiaki Tamura	using HITAC S-810/20</li>
 <li>200 million digits, 1988, Yasumasa Kanada and Yoshiaki Tamura using HITAC S-820/80</li>
 <li>1 billion digits, 1989, Gregory V. Chudnovsky & David V. Chudnovsky using IBM 3090</li>
+<li>4 billion digits, 1995, Yasumasa Kanada and Daisuke Takahashi using HITAC S-3800/480</li>
+<li>200 billion digits, 1999, Yasumasa Kanada and Daisuke Takahashi	using HITACHI SR8000/MPP</li>
+<li>1.2 trillion digits, 2002, Yasumasa Kanada  et al. using 	HITACHI SR8000/MPP</li>
+<li>2.5 trillion digits, 2009, Daisuke Takahashi et al. using T2K Open Supercomputer </li>
 </ul>
